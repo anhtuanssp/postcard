@@ -1,0 +1,17 @@
+.background-homepage {
+    background: url('../imgs/Vinh-Halong.jpg');
+    background-size: cover;
+    min-height: 400px;
+   
+}
+
+	.background-homepage h1 {
+	    color: #fff;
+	    text-transform: uppercase;
+	    text-shadow: black 0.01em 0.01em 0.1em;
+	}
+
+	.background-homepage p {
+	    color: #fff;
+	    text-shadow: black 0.1em 0.1em 0.1em;
+	}

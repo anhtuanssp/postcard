@@ -1,0 +1,21 @@
+{
+  "name": "postcard",
+  "version": "1",
+  "homepage": "https://github.com/anhtuanssp/postcard",
+  "authors": [
+    "anhtuan.ssp <anhtuan.ssp@gmail.com>"
+  ],
+  "description": "postcard",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "hello": "~1.9.6"
+  }
+}
